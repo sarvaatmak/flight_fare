@@ -75,3 +75,5 @@ xlrd==2.0.1
 zipp==3.4.0
 gunicorn
 flask
+flask_cors
+pickle
