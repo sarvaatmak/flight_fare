@@ -76,4 +76,3 @@ zipp==3.4.0
 gunicorn
 flask
 flask_cors
-pickle
